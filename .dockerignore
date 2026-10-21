@@ -1,0 +1,16 @@
+.git/
+content/
+README.md
+compose.yaml
+.dockerignore
+**/Dockerfile
+
+**/node_modules/
+**/dist/
+
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+
+**/.env
+**/.DS_Store
